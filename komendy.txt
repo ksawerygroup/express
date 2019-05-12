@@ -1,0 +1,8 @@
+Instalowanie express generator globalnie
+npm install express-generator -g
+
+Uruchamiamy komendą - express --view=pug
+następnie npm install
+ następnie czytaj co pisze w run the app
+
+ uruchamianie z nodemon wpisz nodemon bin/www
